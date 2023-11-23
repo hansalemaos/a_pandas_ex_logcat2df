@@ -1,3 +1,6 @@
+# Use:
+# https://github.com/hansalemaos/logcatdevices
+
 ### ADB logcat to Pandas DataFrame
 
 ```python
